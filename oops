@@ -1,0 +1,31 @@
+# Class : Blueprint to Create a Object
+# Object : Instance of a CLass (Something Created from Class)
+
+# Class Contains Properties
+# Object contains Methods 
+
+# 1. Inheritance
+# 2. Encapsulation
+# 3. Polymorphism
+# 4. Abstraction
+
+
+# Creating a Class
+
+# class Car:
+#     def _init_(self,company,model,evOrNot,noOfTyres):
+#         self.company = company
+#         self.model = model
+#         self.evOrNot = evOrNot
+#         self.noOfTyres = noOfTyres
+
+# # Creating a Object
+
+# Car1 = Car("TOYOTA","ETIOS","EV",4)
+# # print(Car1.company)
+
+# # print(f"{Car1.company} launched it's New Model Called {Car1.model} it is {Car1.evOrNot} and have {Car1.noOfTyres} tyres ")
+
+# car2 = Car("MAHINDRA","THAR",'FUEL',4)
+
+# print(f"{car2.company} launched it's New Model Called {car2.model} it is {car2.evOrNot} and have {car2.noOfTyres} tyres ")
